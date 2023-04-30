@@ -73,4 +73,4 @@ async def stop(ctx):
         await voice_client.disconnect()
 
 # Run the bot with the specified token
-client.run('MTEwMjA2MTc5NzM5MDk1NDU5OQ.G5XcGn.Bwd91qSmn2c-Htp4uto-6-OF18fGxfMKRZUb8s')
+client.run('YOUR TOKEN')
